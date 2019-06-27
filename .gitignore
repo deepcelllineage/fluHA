@@ -102,3 +102,16 @@ venv.bak/
 
 # mypy
 .mypy_cache/
+
+
+# Big Data files
+*.fastq*
+*.fasta*
+*.bam*
+*.sam*
+*.vcf*
+
+
+# dummy file 
+# so git acknowledges the presence of empty directories
+# .keep

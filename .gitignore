@@ -106,7 +106,12 @@ venv.bak/
 
 # Big Data files
 *.fastq*
+!*.fastqeg*
+!*.fastq.eg*
 *.fasta*
+!*.fastaeg*
+!*.fasta.eg*
+*.fa*
 *.bam*
 *.sam*
 *.vcf*
